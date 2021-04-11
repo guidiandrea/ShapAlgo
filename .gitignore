@@ -2,3 +2,6 @@ data/*
 frequent_itemsets.pk
 .gitignore
 shap_values.pk
+graphs/data/lastfm_asia_edges.csv
+graphs/data/lastfm_asia_features.json
+graphs/data/lastfm_asia_target.csv
